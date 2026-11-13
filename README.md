@@ -4,78 +4,70 @@
 
 ### AI Tools
 
-**01 / HARNESS & CODING**
+**01 — HARNESS**
 
 <table>
 <tr>
-<td align="center" width="85">
+<td align="center" width="75">
 <a href="https://openai.com/codex/">
-<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="26" height="26" alt="Codex"/><br/>
-<strong>Codex</strong><br/>
-<sub>↗ Open tool</sub>
+<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="22" alt="Codex"/><br/>
+<sub>Codex</sub>
 </a>
 </td>
-<td align="center" width="85">
+<td align="center" width="75">
 <a href="https://opencode.ai/">
-<img src="https://cdn.simpleicons.org/opencode/DE9B45" width="26" height="26" alt="OpenCode"/><br/>
-<strong>OpenCode</strong><br/>
-<sub>↗ Open tool</sub>
+<img src="https://cdn.simpleicons.org/opencode/FFFFFF" width="22" alt="OpenCode"/><br/>
+<sub>OpenCode</sub>
 </a>
 </td>
-<td align="center" width="85">
+<td align="center" width="75">
 <a href="https://hermes-agent.nousresearch.com/">
-<img src="https://www.google.com/s2/favicons?domain=hermes-agent.nousresearch.com&sz=64" width="26" height="26" alt="Hermes"/><br/>
-<strong>Hermes</strong><br/>
-<sub>↗ Open tool</sub>
+<img src="https://cdn.simpleicons.org/robot/FFFFFF" width="22" alt="Hermes"/><br/>
+<sub>Hermes</sub>
 </a>
 </td>
 </tr>
 </table>
 
-**02 / AI ASSISTANTS**
+**02 — AI CHAT**
 
 <table>
 <tr>
-<td align="center" width="85">
+<td align="center" width="75">
 <a href="https://chatgpt.com/">
-<img src="https://cdn.simpleicons.org/openai/74AA9C" width="26" height="26" alt="ChatGPT"/><br/>
-<strong>ChatGPT</strong><br/>
-<sub>↗ Start chat</sub>
+<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="22" alt="ChatGPT"/><br/>
+<sub>ChatGPT</sub>
 </a>
 </td>
-<td align="center" width="85">
-<a href="https://claude.ai/new">
-<img src="https://cdn.simpleicons.org/claude/D97757" width="26" height="26" alt="Claude"/><br/>
-<strong>Claude</strong><br/>
-<sub>↗ Start chat</sub>
+<td align="center" width="75">
+<a href="https://claude.ai/">
+<img src="https://cdn.simpleicons.org/claude/FFFFFF" width="22" alt="Claude"/><br/>
+<sub>Claude</sub>
 </a>
 </td>
-<td align="center" width="85">
-<a href="https://gemini.google.com/app">
-<img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="26" height="26" alt="Gemini"/><br/>
-<strong>Gemini</strong><br/>
-<sub>↗ Start chat</sub>
+<td align="center" width="75">
+<a href="https://gemini.google.com/">
+<img src="https://cdn.simpleicons.org/googlegemini/FFFFFF" width="22" alt="Gemini"/><br/>
+<sub>Gemini</sub>
 </a>
 </td>
 </tr>
 </table>
 
-**03 / DESIGN & PROTOTYPING**
+**03 — DESIGN**
 
 <table>
 <tr>
-<td align="center" width="85">
-<a href="https://www.figma.com/files/">
-<img src="https://cdn.simpleicons.org/figma/F24E1E" width="26" height="26" alt="Figma"/><br/>
-<strong>Figma</strong><br/>
-<sub>↗ Open design</sub>
+<td align="center" width="75">
+<a href="https://www.figma.com/">
+<img src="https://cdn.simpleicons.org/figma/FFFFFF" width="22" alt="Figma"/><br/>
+<sub>Figma</sub>
 </a>
 </td>
-<td align="center" width="85">
+<td align="center" width="75">
 <a href="https://stitch.withgoogle.com/">
-<img src="https://www.google.com/s2/favicons?domain=stitch.withgoogle.com&sz=64" width="26" height="26" alt="Stitch"/><br/>
-<strong>Stitch</strong><br/>
-<sub>↗ Open design</sub>
+<img src="https://cdn.simpleicons.org/google/FFFFFF" width="22" alt="Stitch"/><br/>
+<sub>Stitch</sub>
 </a>
 </td>
 </tr>
