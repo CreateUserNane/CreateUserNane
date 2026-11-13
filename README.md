@@ -8,16 +8,25 @@
 
 ### AI Tools
 
-HARNESS
-![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-111111?style=for-the-badge&logo=opencode&logoColor=white)
-![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-6C47FF?style=for-the-badge&logo=probot&logoColor=white)
+**HARNESS**
 
-CHAT
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+<p align="left">
+  <img src="https://svgl.app/library/openai.svg" height="38" alt="Codex" title="Codex"/>
+  <img src="https://cdn.simpleicons.org/opencode" height="38" alt="OpenCode" title="OpenCode"/>
+  <img src="https://hermes-agent.nousresearch.com/favicon.ico" height="38" alt="Hermes Agent" title="Hermes Agent"/>
+</p>
 
-DESIGN
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Google Stitch](https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white)
+**CHAT**
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/openai" height="38" alt="ChatGPT" title="ChatGPT"/>
+  <img src="https://cdn.simpleicons.org/claude" height="38" alt="Claude" title="Claude"/>
+  <img src="https://cdn.simpleicons.org/googlegemini" height="38" alt="Gemini" title="Gemini"/>
+</p>
+
+**DESIGN**
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/figma" height="38" alt="Figma" title="Figma"/>
+  <img src="https://cdn.simpleicons.org/google" height="38" alt="Google Stitch" title="Google Stitch"/>
+</p>
